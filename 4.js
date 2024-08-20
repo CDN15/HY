@@ -1,0 +1,1 @@
+Ftr=document.createElement("footer");Ftr.innerHTML="© "+new Date().getFullYear()+" HAEYUL ARCHITECTS";document.querySelector("html").append(Ftr)

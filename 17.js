@@ -1,0 +1,1 @@
+if(document.getElementById("paging")){const Pg=document.getElementById("paging");if(Pg.childElementCount=="1"){Pg.remove()}else{Pg.removeAttribute("style")}}

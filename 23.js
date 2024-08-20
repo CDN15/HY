@@ -1,0 +1,1 @@
+const swiper=new Swiper(".mySwiper",{autoHeight:true,spaceBetween:0,speed:300,touchStartPreventDefault:false,pagination:{el:".swiper-pagination",type:'bullets',clickable:true,dynamicBullets:false,},})

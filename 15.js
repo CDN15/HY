@@ -1,0 +1,1 @@
+document.querySelector("html").addEventListener("touchstart",()=>{},{passive:false});document.querySelector("html").addEventListener("touchmove",()=>{},{passive:false});document.querySelector("html").addEventListener("touchend",()=>{},{passive:false})

@@ -1,0 +1,1 @@
+document.querySelectorAll("body.tt-body-index .box3 a").forEach((e)=>{e.addEventListener("mousedown",(e)=>{e.preventDefault()},{passive:false});e.addEventListener("mouseup",(e)=>{e.preventDefault()},{passive:false})})

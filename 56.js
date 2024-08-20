@@ -1,0 +1,1 @@
+const LzyObsrvr=new MutationObserver(()=>{const LzyImg=document.querySelectorAll("#permalink_desc img.ls-is-cached");LzyImg.forEach((e)=>{e.parentElement.removeAttribute("class");e.parentElement.removeAttribute("data-expand")})});const LzyObsrvroption={attributes:true,childList:true,characterData:true,subtree:true};LzyObsrvr.observe(QsHtml,LzyObsrvroption)

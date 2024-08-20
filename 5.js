@@ -1,0 +1,1 @@
+document.querySelectorAll("span[data-phocus]").forEach((e)=>{e.setAttribute("dt-lghtbx","");e.removeAttribute("data-phocus")})

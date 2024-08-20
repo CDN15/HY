@@ -1,0 +1,1 @@
+if(document.querySelector("span[dt-lghtbx]")){SpnDtLghtbxChck=true}else{SpnDtLghtbxChck=false}

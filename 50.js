@@ -1,0 +1,1 @@
+document.querySelector("body").setAttribute("locationhref",location.href);if(location.href.includes("/search/")|| location.href.includes("/tag/")){}else{if(document.getElementById("category_name")){document.querySelector("body").setAttribute("category_name",CtgrNm)}}

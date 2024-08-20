@@ -1,0 +1,1 @@
+document.querySelector("html").style.removeProperty("visibility");

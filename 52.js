@@ -1,0 +1,1 @@
+CoverSwiper=new Swiper(".CoverSwiper",{loop:true,speed:500,spaceBetween:My1Rem,autoplay:{delay:3000,disableOnInteraction:false,},centeredSlides:true,touchStartPreventDefault:false,pagination:{slidesPerView:3,centeredSlides:true,el:".swiper-pagination",type:'bullets',clickable:true,dynamicBullets:false,},})

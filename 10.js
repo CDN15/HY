@@ -1,0 +1,1 @@
+const SpnDtLghtbx=document.querySelectorAll("span[dt-lghtbx]");SpnDtLghtbx.forEach((e)=>{const SpnDtLghtbxFrstChld=e.firstChild;if(SpnDtLghtbxFrstChld.getAttribute("src")!=null){const LzyClr=document.createElement("div");e.append(LzyClr);LzyClr.append(SpnDtLghtbxFrstChld)}})

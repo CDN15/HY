@@ -1,0 +1,1 @@
+const PngObsrvr=new MutationObserver(()=>{const PngImg=document.querySelectorAll("img.lazyloaded[src*='.png']");PngImg.forEach((e)=>{e.parentElement.parentElement.style.setProperty("background-color","unset")})});const PngObsrvroption={attributes:true,childList:true,characterData:true,subtree:true};PngObsrvr.observe(QsHtml,PngObsrvroption)
