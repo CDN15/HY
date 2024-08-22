@@ -36,4 +36,4 @@ var Swiper=function(){"use strict";function e(e){return null!==e&&"object"==type
 //# sourceMappingURL=swiper-bundle.min.js.map;
 
 /*0*/
-Div=document.createElement("div");document.querySelector("html").append(Div);LinkNumber=[1,21];LinkNumber.forEach((e)=>{Link=document.createElement("Link");Link.setAttribute("rel","stylesheet");Link.setAttribute("href","https://cdn.jsdelivr.net/gh/CDN15/HY@main/"+e+".css");Div.append(Link)});Exclude=[1,2,5,9,11,18,19,21,22];for(var i=1;i<=62;i++){if(!Exclude.includes(i)){Script=document.createElement("script");Script.setAttribute("src","https://cdn.jsdelivr.net/gh/CDN15/HY@main/"+i+".js");Div.append(Script)}};
+Div=document.createElement("div");document.querySelector("html").append(Div);LinkNumber=[1,21];LinkNumber.forEach((e)=>{Link=document.createElement("Link");Link.setAttribute("rel","stylesheet");Link.setAttribute("href","https://cdn.jsdelivr.net/gh/CDN15/HY@main/"+e+".css");Div.append(Link)});Exclude=[1,2,5,9,11,18,19,21,22];for(var i=1;i<=63;i++){if(!Exclude.includes(i)){Script=document.createElement("script");Script.setAttribute("src","https://cdn.jsdelivr.net/gh/CDN15/HY@main/"+i+".js");Div.append(Script)}};
